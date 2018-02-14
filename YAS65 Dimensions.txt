@@ -1,0 +1,22 @@
+ Depth: 115.502mm
+ Width: 305.902mm
+Height:      22mm
+	
+			    FEET
+---------------------------------
+Height: 255.792mm
+ Width:  20.000mm
+
+		     PATH LENGTHS
+----------------------------------
+            Top Plate: 1672.051mm
+         Bottom Plate:  951.439mm
+	  Bottom Feet:	587.233mm
+
+Holes: 8
+Hole Diameter: 3.25mm
+Edge Width: 8mm
+Edge Padding: 8mm
+Corner Radius: 2mm
+
+Kerf: 0.15mm
